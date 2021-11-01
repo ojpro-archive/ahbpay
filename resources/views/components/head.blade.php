@@ -16,7 +16,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/icon/192x192.png') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-    {{-- <link rel="manifest" crossorigin="use-credentials" href="/manifest.json"> --}}
+    <link rel="manifest" crossorigin="use-credentials" href="/manifest.json">
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 </head>
